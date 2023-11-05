@@ -1,5 +1,12 @@
 body {
     margin: 0;
-    background-color: #ca33a7;
-    color: rgb(68, 94, 93);
+    background-color: #a188f7;
+    color: rgb(239, 242, 85);
+}
+
+h1,
+h2 {
+    font-family: "Quicksand", sans-serif;
+    font-weight: 500;
+    text-shadow: 0 0 2px #fff, 0 0 5px #eeffc7;
 }
