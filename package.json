@@ -22,5 +22,9 @@
   "dependencies": {
     "gulp-cssbeautify": "^3.0.1",
     "gulp-strip-css-comments": "^3.0.0"
-  }
+  },
+  "browserslist": [
+    "last 8 version",
+    "> 1%"
+  ]
 }
